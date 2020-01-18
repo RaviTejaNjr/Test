@@ -1,0 +1,29 @@
+.avinash{
+    color:#1b961f;
+    font-size: 6em
+}
+
+.ravi{
+    border: 0.1em;
+    border-color: cyan;
+    border-style:dashed ;
+    
+}
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
